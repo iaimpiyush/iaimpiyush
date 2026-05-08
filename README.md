@@ -71,21 +71,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iaimpiyush/iaimpiyush/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/iaimpiyush/iaimpiyush/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=iaimpiyush&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/iaimpiyush/iaimpiyush/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/iaimpiyush/iaimpiyush/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iaimpiyush/iaimpiyush/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iaimpiyush/iaimpiyush/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iaimpiyush/iaimpiyush/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
